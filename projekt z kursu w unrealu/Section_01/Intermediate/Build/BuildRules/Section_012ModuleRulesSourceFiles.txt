@@ -1,0 +1,3 @@
+D:\Dokumenty\unreal\projekt z kursu w unrealu\Section_012\Source\Section_012\Section_012.Build.cs
+D:\Dokumenty\unreal\projekt z kursu w unrealu\Section_012\Source\Section_012.Target.cs
+D:\Dokumenty\unreal\projekt z kursu w unrealu\Section_012\Source\Section_012Editor.Target.cs

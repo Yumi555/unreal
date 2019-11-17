@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Section_012.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\unreal 19.2\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Dokumenty\unreal\projekt z kursu w unrealu\Section_012\Intermediate\Build\Win64\UE4Editor\Development\Section_012\Section_012.cpp.obj"
+"D:\Dokumenty\unreal\projekt z kursu w unrealu\Section_012\Intermediate\Build\Win64\UE4Editor\Development\Section_012\Section_012GameModeBase.cpp.obj"
+"D:\Dokumenty\unreal\projekt z kursu w unrealu\Section_012\Intermediate\Build\Win64\UE4Editor\Development\Section_012\Section_012.init.gen.cpp.obj"
+"D:\Dokumenty\unreal\projekt z kursu w unrealu\Section_012\Intermediate\Build\Win64\UE4Editor\Development\Section_012\Section_012GameModeBase.gen.cpp.obj"
+"D:\unreal 19.2\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Section_012\PCLaunch.rc.res"
+"D:\unreal 19.2\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\Dokumenty\unreal\projekt z kursu w unrealu\Section_012\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Section_012.lib"
