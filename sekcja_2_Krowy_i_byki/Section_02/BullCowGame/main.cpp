@@ -10,7 +10,7 @@ interaction. For game logic see the FBullCowGame class/
 
 // to make syntax Unreal friendly
 using FText = std::string;
-using int32 = int;
+using int32 = int; // ten typ na  tej platformie ma 32 bity i ta zmiana jest po to ¿eby to oznaczyæ i by³o jasne
 
 // function prototypes as outside a class
 void PrintIntro();
@@ -123,9 +123,7 @@ bool AskToPlayAgain()
 	std::getline(std::cin, Response);
 	return (Response[0] == 'y') || (Response[0] == 'Y');
 	
-
-
-	return false;
+	return false; // chyba niepotrzebne?
 }
 
 
